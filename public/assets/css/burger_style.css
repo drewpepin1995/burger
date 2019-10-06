@@ -23,7 +23,7 @@
 }
 
 body {
-	background-color: pink;
+	background-color:lightblue;
 
 }
 
@@ -34,7 +34,7 @@ img {
 
 h1 {
 	font-size: 60px;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer {
